@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Mis estudios primarios los realicé en la Unidad Educativa Santa Luisa de Marillac hasta 8vo grado, de 9no a 10mo los realicé en la Unidad Educativa Eloy Alfaro.
 
 ### More Information
 
