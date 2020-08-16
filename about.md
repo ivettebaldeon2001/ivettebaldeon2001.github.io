@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Terminé mis estudios en la Unidad Educativa La Gran Esfera Azul, me gradué en Bachillerato especializado en ciencias. Ahora estudio en la Universidad de Guayaquil y estoy cursando mi primer semestre en Ingeniería en Software.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+ivettebal2001@gmail.com
