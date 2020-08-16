@@ -1,5 +1,5 @@
 ---
-layout:post
+layout:  post
 title: Introducción a la Ingeniería del Software
 ---
 
