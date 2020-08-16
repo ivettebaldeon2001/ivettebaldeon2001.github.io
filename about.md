@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Mis estudios primarios los realicé en la Unidad Educativa Santa Luisa de Marillac hasta 8vo grado, de 9no a 10mo los realicé en la Unidad Educativa Eloy Alfaro.
+### Biografía
+
+Hola a todos me llamo Ivette Baldeón tengo 19 años, tengo varios proyectos en un futuro para cumplirlos con mi primo que es un año menor que yo. Este blog está dedicado a varias cosas que me gustan pero más generalizando sobre mi carrera. 
 
 ### More Information
 
